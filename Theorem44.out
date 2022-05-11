@@ -1,0 +1,106 @@
+Loading "gl2finedata.txt"
+Loading "gl2data.txt"
+Loading "curvelist1.txt"
+Loading "curvelist2.txt"
+=============================================
+List of subgroups not containing scalars lambda with v_2(lambda-1) <= 3
+X238a
+Level 32
+X238b
+Level 32
+X238c
+Level 32
+X238d
+Level 32
+X239a
+Level 32
+X239b
+Level 32
+X239c
+Level 32
+X239d
+Level 32
+=============================================
+Checking that xi(lambda) is trivial modulo 8
+Considering group X238a
+Candidates for xi(lambda) mod 8: {
+    [ 0, 0 ]
+}
+Considering group X238b
+Candidates for xi(lambda) mod 8: {
+    [ 0, 0 ]
+}
+Considering group X238c
+Candidates for xi(lambda) mod 8: {
+    [ 0, 0 ]
+}
+Considering group X238d
+Candidates for xi(lambda) mod 8: {
+    [ 0, 0 ]
+}
+Considering group X239a
+Candidates for xi(lambda) mod 8: {
+    [ 0, 0 ]
+}
+Considering group X239b
+Candidates for xi(lambda) mod 8: {
+    [ 0, 0 ]
+}
+Considering group X239c
+Candidates for xi(lambda) mod 8: {
+    [ 0, 0 ]
+}
+Considering group X239d
+Candidates for xi(lambda) mod 8: {
+    [ 0, 0 ]
+}
+=============================================
+Computing the exponent of the cohomology group H^1(Q, E[8])
+Considering group X238a
+Structure of H^1(Q, E[8]) 
+Full Quotient RSpace of degree 2 over Integer Ring
+Column moduli:
+[ 2, 4 ]
+Exponent 4
+Considering group X238b
+Structure of H^1(Q, E[8]) 
+Full Quotient RSpace of degree 2 over Integer Ring
+Column moduli:
+[ 2, 4 ]
+Exponent 4
+Considering group X238c
+Structure of H^1(Q, E[8]) 
+Full Quotient RSpace of degree 2 over Integer Ring
+Column moduli:
+[ 2, 4 ]
+Exponent 4
+Considering group X238d
+Structure of H^1(Q, E[8]) 
+Full Quotient RSpace of degree 2 over Integer Ring
+Column moduli:
+[ 2, 4 ]
+Exponent 4
+Considering group X239a
+Structure of H^1(Q, E[8]) 
+Full Quotient RSpace of degree 3 over Integer Ring
+Column moduli:
+[ 2, 2, 4 ]
+Exponent 4
+Considering group X239b
+Structure of H^1(Q, E[8]) 
+Full Quotient RSpace of degree 3 over Integer Ring
+Column moduli:
+[ 2, 2, 4 ]
+Exponent 4
+Considering group X239c
+Structure of H^1(Q, E[8]) 
+Full Quotient RSpace of degree 3 over Integer Ring
+Column moduli:
+[ 2, 2, 4 ]
+Exponent 4
+Considering group X239d
+Structure of H^1(Q, E[8]) 
+Full Quotient RSpace of degree 3 over Integer Ring
+Column moduli:
+[ 2, 2, 4 ]
+Exponent 4

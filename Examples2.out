@@ -1,0 +1,11 @@
+Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 41*x + 96 over Rational 
+Field
+(2 : -6 : 1)
+Kummer degree 2
+Torsion degree 1
+Elliptic Curve defined by y^2 = x^3 - 36*x over Rational Field
+(-2 : -8 : 1)
+Kummer degree 2
+Torsion degree 1
+
+Total time: 0.040 seconds, Total memory usage: 32.09MB
