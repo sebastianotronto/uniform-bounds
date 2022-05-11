@@ -1,8 +1,8 @@
 # Some uniform bounds for elliptic curves over Q
 
 This repository contains the [MAGMA](http://magma.maths.usyd.edu.au/magma)
-cited in the paper *Some uniform bounds for elliptic curves over Q*
-by Davide Lombardo and Sebastiano Tronto (temporarily available on
+cited in the paper *Some uniform bounds for elliptic curves
+over Q* by Davide Lombardo and Sebastiano Tronto (available on
 [arXiv](https://arxiv.org/abs/2106.09950), submitted for publication to
 the Pacific Journal of Mathematics).
 
